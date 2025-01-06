@@ -67,7 +67,7 @@ Music Generation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/ai-saas.git
+git clone https://github.com/pakagronglb/ai-saas-platform.git
 ```
 
 2. Install dependencies:
@@ -137,13 +137,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/pakagronglb/ai-saas-genius/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/pakagronglb/ai-saas-platform/issues).
 
 ## 📧 Contact
 
 Pakagrong Lebel - [pakagronglebel@gmail.com]
 
-Project Link: [https://github.com/pakagronglb/ai-saas-genius](https://github.com/pakagronglb/ai-saas-genius)
+Project Link: [https://github.com/pakagronglb/ai-saas-genius](https://github.com/pakagronglb/ai-saas-platform)
 
 ---
 
